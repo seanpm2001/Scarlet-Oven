@@ -1,0 +1,21 @@
+# Start of script
+# Oven configuration file
+username: "pi" # The default user on the Raspberry Pi
+isRoot: false # It is advised to not stay logged in constantly with root privileges
+OvenLocation: "/home/pi/Desktop/Oven/" # The directory location of the Oven
+ovenHidden: false # The oven is not hidden
+desktopConfig: "/home/pi/Desktop/Oven/OvenFile.yml" # The current file, the main configuration file
+desktopKonfig: "/home/pi/Desktop/Oven/OVEN.desktop" # The KDE Desktop entry file, mainly for defining the icon and location
+readOnly: false # The oven is not entirely read only
+icon0: "/bin/Scarlet-Oven/Icons/SVG/Oven.svg" # The SVG icon for the oven
+icon0Width: 256 # x = 256
+icon0Height: 256 # y = 256
+backupIcon1: "/bin/Scarlet-Oven/Icons/PNG/Oven1.png" # The backup PNG icon for the oven
+icon1Width: 256 # x = 256
+icon1Height: 256 # y = 256
+backupIcon2: "<System Default>" # If no icon is found, just default to the system default
+# File info
+# File type: YAML source file (*.yaml)
+# File version: 1 (2022, Saturday, April 30th at 5:19 pm PST)
+# Line count (including blank lines and compiler line): 22
+# End of script
