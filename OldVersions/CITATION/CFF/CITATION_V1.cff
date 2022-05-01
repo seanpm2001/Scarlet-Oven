@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software (Scarlet Oven) please consider citing it below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Scarlet Oven"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-04-30
+url: "https://github.com/seanpm2001/Scarlet-Oven"
+cff-version: 1.2.0
+message: "If you use this software (Scarlet Oven) please consider citing it below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "File manager (Scarlet Oven) usage (citation)"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-04-30
+url: "https://github.com/seanpm2001/Scarlet-Oven"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 4
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "The developers of Scarlet Oven would appreciate your feedback on usage of the project, and seeing who uses it. If you use this software, please consider citing it below"
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Sunday, April 30th at 6:51 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
