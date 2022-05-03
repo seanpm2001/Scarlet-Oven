@@ -1,0 +1,21 @@
+# Start of script
+# Scarlet Oven Raspberry Pi + SystemD Daemon configuration file
+# Modified from: https://github.com/ciobania/thermopi/blob/main/thermopi.service
+[Unit]
+Description=Scarlet-Oven
+After=unknown
+Requires=ruby.service
+
+[Service]
+Type=notify
+Restart=on-failure
+ExecStart=/usr/bin/ruby
+Environment=unknown
+
+[Install]
+WantedBy=multi-user.target
+# File info
+# File type: Service file (*.service)
+# File version: 1 (2022, Monday, May 2nd at 7:13 pm PST)
+# Line count (including blank lines and compiler line): 22
+# End of script
