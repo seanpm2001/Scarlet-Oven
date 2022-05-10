@@ -30,6 +30,23 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "scarlet-oven",
+      "name": "Scarlet Oven",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105084299?v=4",
+      "profile": "https://github.com/Scarlet-Oven",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
