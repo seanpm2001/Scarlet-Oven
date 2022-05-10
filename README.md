@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -436,6 +436,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/topics/year-of-the-linux-desktop"><img src="https://avatars.githubusercontent.com/u/82623447?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Year of the Linux Desktop</b></sub></a><br /><a href="https://github.com/seanpm2001/Scarlet-Oven/commits?author=Year-of-the-Linux-desktop" title="Code">💻</a> <a href="https://github.com/seanpm2001/Scarlet-Oven/commits?author=Year-of-the-Linux-desktop" title="Documentation">📖</a> <a href="#projectManagement-Year-of-the-Linux-desktop" title="Project Management">📆</a> <a href="#security-Year-of-the-Linux-desktop" title="Security">🛡️</a> <a href="#data-Year-of-the-Linux-desktop" title="Data">🔣</a> <a href="#content-Year-of-the-Linux-desktop" title="Content">🖋</a> <a href="#design-Year-of-the-Linux-desktop" title="Design">🎨</a> <a href="#maintenance-Year-of-the-Linux-desktop" title="Maintenance">🚧</a> <a href="#ideas-Year-of-the-Linux-desktop" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://computing-longevity.github.io/"><img src="https://avatars.githubusercontent.com/u/89282681?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Computing Longevity Standardization Organization</b></sub></a><br /><a href="https://github.com/seanpm2001/Scarlet-Oven/commits?author=computing-longevity" title="Code">💻</a> <a href="https://github.com/seanpm2001/Scarlet-Oven/commits?author=computing-longevity" title="Documentation">📖</a> <a href="#projectManagement-computing-longevity" title="Project Management">📆</a> <a href="#security-computing-longevity" title="Security">🛡️</a> <a href="#data-computing-longevity" title="Data">🔣</a> <a href="#content-computing-longevity" title="Content">🖋</a> <a href="#design-computing-longevity" title="Design">🎨</a> <a href="#maintenance-computing-longevity" title="Maintenance">🚧</a> <a href="#ideas-computing-longevity" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
