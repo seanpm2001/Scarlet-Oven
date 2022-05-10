@@ -47,6 +47,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-raspberrypi",
+      "name": "Seanpm2001 Raspberry Pi projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88360502?v=4",
+      "profile": "https://raspberrypi.org/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
