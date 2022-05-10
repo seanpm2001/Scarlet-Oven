@@ -81,6 +81,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-ruby-lang",
+      "name": "Seanpm2001 Ruby language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84150041?v=4",
+      "profile": "https://www.ruby-lang.org/en/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
