@@ -234,6 +234,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "Year-of-the-Linux-desktop",
+      "name": "Year of the Linux Desktop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82623447?v=4",
+      "profile": "https://github.com/topics/year-of-the-linux-desktop",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
